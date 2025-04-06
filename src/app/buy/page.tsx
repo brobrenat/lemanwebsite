@@ -233,7 +233,7 @@ Terima kasih telah memesan LEMAN Fresh Drinks!`
 
                 <div className="mb-6 p-4 bg-yellow-50 rounded-lg border border-yellow-200">
                   <p className="text-sm text-yellow-800">
-                    <strong>Catatan:</strong> Setelah menekan tombol "Pesan via WhatsApp", Anda akan diarahkan ke
+                    <strong>Catatan:</strong> Setelah menekan tombol &quot;Pesan via WhatsApp&quot;, Anda akan diarahkan ke
                     WhatsApp untuk menyelesaikan pesanan Anda dengan admin kami.
                   </p>
                 </div>
