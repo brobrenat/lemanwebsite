@@ -10,14 +10,8 @@ export function Footer() {
             <h3 className="text-2xl font-bold mb-4 text-primary">LEMAN</h3>
             <p className="text-gray-400 mb-4">Minuman Sehat & Menyegarkan untuk Setiap Momen</p>
             <div className="flex space-x-4">
-              <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
+              <Link href="https://www.instagram.com/leman.fresh?igsh=d3BxaTUyY3hzOXEx" className="text-gray-400 hover:text-primary transition-colors">
                 <Instagram size={20} />
-              </Link>
-              <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
-                <Facebook size={20} />
-              </Link>
-              <Link href="#" className="text-gray-400 hover:text-primary transition-colors">
-                <Twitter size={20} />
               </Link>
             </div>
           </div>
@@ -51,9 +45,8 @@ export function Footer() {
           <div>
             <h4 className="font-bold mb-4">Kontak</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: hello@leman.fresh</li>
-              <li>Telepon: +62 8782 3411 23</li>
-              <li>Instagram: @leman.fresh</li>
+              <li>Telepon: +62 852-8232-5997</li>
+              <li>Instagram: @Leman.fresh</li>
             </ul>
           </div>
         </div>
